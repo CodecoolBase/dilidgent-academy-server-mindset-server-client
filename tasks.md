@@ -21,12 +21,13 @@ Answer the following questions:
 ### Background materials
 
 - [MDN: HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-- [MDN: HTTP Session](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
-- [MDN: Headers Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 - [MDN: URL](https://developer.mozilla.org/en-US/docs/Web/URI)
+- [MDN: HTTP Session](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
+- [HTTP.dev: Headers](https://http.dev/headers)
 
 Deep dive:
 
+- [MDN: Headers Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 - [MDN: HTTP Message](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
 
 
@@ -42,6 +43,10 @@ Answer the following questions.
 - Can you create a new HTTP request to get the image of the character?
 
 ### Background materials
+
+- [HTTP.dev Status codes](https://http.dev/status)
+
+Deep dive:
 
 - [MDN: Status Codes Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
@@ -80,4 +85,10 @@ Answer the following questions:
 
 ### Background materials
 
+- [HTTP.dev: Methods](https://http.dev/methods)
+
+Deep dive:
+
 - [MDN: Methods Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [RFC7320: HTTP Message Syntax and Routing](https://datatracker.ietf.org/doc/html/rfc7230?utm_source=localhost%3A8080)
+- [RFC7321: HTTP Semantics and Content (Methods, Statuses, Headers)](https://datatracker.ietf.org/doc/html/rfc7231?utm_source=localhost%3A8080)
