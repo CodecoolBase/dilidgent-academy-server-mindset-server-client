@@ -19,7 +19,9 @@
 
 - Open the `requests.http` file.
 - Issue a GET request to the `http://developer.mozilla.org`.
-- Examine the request and the response in the upcoming tab, and answer the following questions.
+- Examine the request and the response in the upcoming tab.
+
+Answer the following questions:
 
 - What information can you read from the first line of the **request**? 
 - What is the method of this **request**?
@@ -32,7 +34,8 @@
 ### Task 2
 
 - Issue a new GET request to the `GET https://rickandmortyapi.com/api/character/2` endpoint.
-- Answer the following questions.
+
+Answer the following questions.
 
 - What is the Status Code of the response?
 - What do you see in the body?
