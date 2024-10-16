@@ -87,8 +87,13 @@ Answer the following questions:
 
 - [HTTP.dev: Methods](https://http.dev/methods)
 
+Fun
+
+- [How the internet was invented](https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf)
+
 Deep dive:
 
 - [MDN: Methods Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-- [RFC7320: HTTP Message Syntax and Routing](https://datatracker.ietf.org/doc/html/rfc7230?utm_source=localhost%3A8080)
-- [RFC7321: HTTP Semantics and Content (Methods, Statuses, Headers)](https://datatracker.ietf.org/doc/html/rfc7231?utm_source=localhost%3A8080)
+- [Wikipedia: Internet Protocol Stack](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+- [RFC 9110: HTTP Semantics ](https://datatracker.ietf.org/doc/html/rfc9110)
+- [RFC 9112: HTTP 1.1](https://datatracker.ietf.org/doc/html/rfc9112)
